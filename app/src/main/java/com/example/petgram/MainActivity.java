@@ -1,4 +1,4 @@
-package com.dfuentes.petgram;
+package com.example.petgram;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

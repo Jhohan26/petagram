@@ -1,4 +1,4 @@
-package com.dfuentes.petgram;
+package com.example.petgram;
 
 import org.junit.Test;
 

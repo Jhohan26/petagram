@@ -1,4 +1,4 @@
-package com.dfuentes.petgram;
+package com.example.petgram;
 
 /**
  * Created by inavid on 24/06/16.

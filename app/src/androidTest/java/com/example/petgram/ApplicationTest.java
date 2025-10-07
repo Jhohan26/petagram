@@ -1,4 +1,4 @@
-package com.dfuentes.petgram;
+package com.example.petgram;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
